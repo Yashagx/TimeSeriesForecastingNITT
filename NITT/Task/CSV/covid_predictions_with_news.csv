@@ -1,0 +1,6 @@
+State,Model_Infected,Model_Recovered,Model_Deaths,News_Infected,News_Recovered,News_Deaths,Final_Infected,Final_Recovered,Final_Deaths
+Maharashtra,5825,5065,202,19,0,0,1760,1519,60
+Delhi,5816,5084,205,0,0,0,1744,1525,61
+Tamil Nadu,5905,5065,205,163,0,0,1885,1519,61
+Karnataka,5777,5097,202,19,0,0,1746,1529,60
+West Bengal,5848,5132,205,19,0,0,1767,1539,61
