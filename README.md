@@ -14,7 +14,7 @@ This repository contains the comprehensive codebase, experimental setup, and imp
 
 **National Institute of Technology, Tiruchirappalli (NIT Trichy)**
 **Department of Computer Applications**
-**Internship Duration:** June–July 2025
+**Internship Duration:** May-August 2025
 **Research Mode:** Remote + On-campus
 
 ---
